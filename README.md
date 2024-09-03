@@ -37,6 +37,9 @@
 - **NHN 아카데미 Advanced Java Track 수료**
 - **SK플래닛 ASAC 5th Track 수료**
 
+## Experience
+- **Soft Squared Inc. [GRIDGE] 서버 개발**
+
 ## 📫 How to reach me
 - **Email**: quswjdgns3996@gmail.com
 - **LinkedIn**: 
