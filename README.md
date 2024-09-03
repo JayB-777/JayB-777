@@ -1,5 +1,10 @@
 # Hello! 👋 Welcome to My GitHub Profile
 
+## 📫 How to Reach Me
+- **Email**: quswjdgns3996@gmail.com
+- **My Blog**: [Re:제로부터 시작하는 코딩생활](https://rezerocodinglife.tistory.com/)
+
+
 ## 🛠️ My Tech Stack
 
 ### Frontend
@@ -49,8 +54,3 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quswjdgns26)](https://solved.ac/quswjdgns26)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=quswjdgns399&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quswjdgns399&layout=compact&theme=tokyonight)
-
-## 📫 How to Reach Me
-- **Email**: quswjdgns3996@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **My Blog**: [Re:제로부터 시작하는 코딩생활](https://rezerocodinglife.tistory.com/)
