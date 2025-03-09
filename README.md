@@ -49,8 +49,3 @@
 
 ## 💼 Experience
 - **Soft Squared Inc. [GRIDGE] 서버 개발**
-
-## 📊 GitHub Stats
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=quswjdgns26)](https://solved.ac/quswjdgns26)
-
-
