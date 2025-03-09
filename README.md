@@ -1,7 +1,6 @@
 # Hello! 👋 Welcome to My GitHub Profile
 
 ## 📫 How to Reach Me
-- **Email**: quswjdgns3996@gmail.com
 - **My Blog**: [Re:제로부터 시작하는 코딩생활](https://rezerocodinglife.tistory.com/)
 
 
